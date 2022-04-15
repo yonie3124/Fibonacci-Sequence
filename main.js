@@ -8,4 +8,8 @@ const fibonacci = (num = 1) => {
     return series[num - 1];
  };
 
- console.log(fibonacci(10));
+ console.log(fibonacci(43));
+ console.log(fibonacci(101));
+ console.log(fibonacci(227));
+ console.log(fibonacci(491));
+ console.log(fibonacci(881));
